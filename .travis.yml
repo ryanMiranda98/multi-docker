@@ -22,3 +22,4 @@ after_success:
   - docker push ryanmiranda98/multi-server
   - docker push ryanmiranda98/multi-nginx
   - docker push ryanmiranda98/multi-worker
+
